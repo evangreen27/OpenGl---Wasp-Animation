@@ -1,13 +1,13 @@
-# OpenGL Wasp animation
+# OpenGL Wasp Animation
 
 ___
 
-## Features:
+## Features
 
 ___
 
-### Skeleton with joints
-### Fully skinned
-### Keyframes with channel implementation for animation
+### * Skeleton with joints
+### * Fully skinned
+### * Keyframes with channel implementation for animation
 
-![Sample](https://i.imgur.com/mBjVeOY.gifv)
+![Sample](https://i.imgur.com/mBjVeOY.gif)
